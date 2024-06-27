@@ -4,7 +4,7 @@ meu nome é Emanuelly
 
 - estou estudando na alura
 - estou ne desenvolvendo na linguagem JavaScript
-- utilizo esse espaçopara minha organização e compartilhamento dos meus projetosdesenvolvidos
+- utilizo esse espaçopara minha organização e compartilhamento dos meus projetos desenvolvidos
 
 - ### você entrar em contato comigo 📪
 
